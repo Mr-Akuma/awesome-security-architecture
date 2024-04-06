@@ -5,6 +5,7 @@ A Curated List of Security Architecture Review Resources (Books, Courses - Free 
 #### Contents
 - [Blogs and Articles](#Blogs-and-Articles)
 - [Checklists & Cheatsheets](#Checklists-and-Cheatsheets)
+- [PDF, White Papers and E-Books](#PDF-and-E-Books)
 
 
 <br>
@@ -19,6 +20,9 @@ A Curated List of Security Architecture Review Resources (Books, Courses - Free 
 #### Checklists and Cheatsheets
 > - <a href="https://learn.microsoft.com/en-us/azure/well-architected/security/checklist">Design Review Checklist for Azure</a>
 > - <a href="https://zeltser.com/media/docs/security-architecture-cheat-sheet.pdf"> By Lenny Zeltser</a>
+> - <a href="https://www.hyperglance.com/blog/aws-well-architected"> By David Gill </a>
+
+#### PDF, White Papers and E-Books
 
 
 #### To be Done
@@ -28,3 +32,4 @@ A Curated List of Security Architecture Review Resources (Books, Courses - Free 
 > - Web Application Security Architecture Review
 > - Cloud Security Architecture Review
 > - Network Device Audit and Configuration Review
+> - Service/Domain Specific Security Architecture Review
